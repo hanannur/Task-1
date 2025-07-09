@@ -1,0 +1,201 @@
+.all{
+    width:5000px;
+    height:900px;
+    background-color:#E89DA4;
+    font-family: 'carter one';
+
+
+}
+.rectangle{
+    height:500px;
+    width:600px;
+    padding:40px 30px 70px;
+    
+    margin:100px auto 50px;
+    border-radius: 20px;
+    background-image: url("images/backgroundimage.jpg");
+    background-size:cover ;
+    opacity:80%;
+
+}
+.todo_lists{
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+
+}
+
+
+
+
+.todo-list_title{
+    color:#730002;
+    text-align: center;
+    font-weight: bold;
+    background-color: ffd4d4;
+
+}
+.rectangle-5{
+    margin-left: 100px;
+}
+.input-task1{
+    border-radius: 8px;
+    
+    border-color:none;
+    width:400px;
+    height:25px;
+}
+.inside-the-rectangle{
+    padding-bottom:20px;
+    
+
+
+}
+.check{
+    text-align:center;
+    font-size:20px;
+    font-family: 'carter one';
+    font-weight: bold;
+    padding-bottom:20px;
+
+
+
+
+}
+.sub-tasks{
+    display:flex;
+    justify-content:space-between;
+
+}
+.sub-tasks{
+    flex-direction: column;
+    gap:17px;
+}
+
+
+.input-task{
+    width:400px;
+    height:25px;
+    border-radius: 8px;
+}
+
+   
+.image2{
+    
+    margin-left:100px;
+}
+
+.plus{
+    display:flex;
+    position:absolute;
+    right:470px;
+    top:232px;
+    font-size:20px;
+    
+    border: none;
+    opacity:1;
+    color:pink;
+}
+
+.pencil1{
+    
+    position:absolute;
+    right:493px;
+    top:325px;
+    font-size:20px;
+    
+    border: none;
+    opacity:1;
+    color:pink;
+
+}
+.cancel1{
+    
+    position:absolute;
+    right:469px;
+    top:325px;
+    font-size:20px;
+    
+    border: none;
+    opacity:1;
+    color:pink;
+
+}
+
+.pencil2{
+    
+    position:absolute;
+    right:493px;
+    top:373px;
+    font-size:20px;
+    
+    border: none;
+    opacity:1;
+    color:pink;
+
+}
+.cancel2{
+    
+    position:absolute;
+    right:469px;
+    top:373px;
+    font-size:20px;
+    
+    border: none;
+    opacity:1;
+    color:pink;
+
+}
+.pencil3{
+    
+    position:absolute;
+    right:493px;
+    top:420px;
+    font-size:20px;
+    
+    border: none;
+    opacity:1;
+    color:pink;
+
+}
+.cancel3{
+    
+    position:absolute;
+    right:469px;
+    top:420px;
+    font-size:20px;
+    
+    border: none;
+    opacity:1;
+    color:pink;
+
+}
+.pencil4{
+    
+    position:absolute;
+    right:493px;
+    top:468px;
+    font-size:20px;
+    
+    border: none;
+    opacity:1;
+    color:pink;
+
+}
+.cancel4{
+    
+    position:absolute;
+    right:469px;
+    top:468px;
+    font-size:20px;
+    
+    border: none;
+    opacity:1;
+    color:pink;
+
+}
+
+   
+
+
+   
